@@ -3,7 +3,10 @@
   "resourceVersion": "1.6",
   "name": "GML Platformer",
   "resources": [
+    {"id":{"name":"Spr_IWall","path":"sprites/Spr_IWall/Spr_IWall.yy",},"order":3,},
+    {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"order":0,},
     {"id":{"name":"Spr_PlayerA","path":"sprites/Spr_PlayerA/Spr_PlayerA.yy",},"order":0,},
+    {"id":{"name":"Obj_IWall","path":"objects/Obj_IWall/Obj_IWall.yy",},"order":1,},
     {"id":{"name":"Spr_Player","path":"sprites/Spr_Player/Spr_Player.yy",},"order":2,},
     {"id":{"name":"Spr_PlayerR","path":"sprites/Spr_PlayerR/Spr_PlayerR.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
