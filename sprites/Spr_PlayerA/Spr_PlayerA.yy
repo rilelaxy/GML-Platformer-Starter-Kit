@@ -46,7 +46,7 @@
     "name": "Spr_PlayerA",
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 11.0,
+    "playbackSpeed": 7.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
