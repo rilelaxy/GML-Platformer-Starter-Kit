@@ -6,6 +6,7 @@
     {"id":{"name":"Spr_IWall","path":"sprites/Spr_IWall/Spr_IWall.yy",},"order":3,},
     {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"order":0,},
     {"id":{"name":"Spr_PlayerA","path":"sprites/Spr_PlayerA/Spr_PlayerA.yy",},"order":0,},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"Obj_IWall","path":"objects/Obj_IWall/Obj_IWall.yy",},"order":1,},
     {"id":{"name":"Obj_LevelDoor","path":"objects/Obj_LevelDoor/Obj_LevelDoor.yy",},"order":2,},
     {"id":{"name":"Spr_Walls","path":"sprites/Spr_Walls/Spr_Walls.yy",},"order":5,},
@@ -32,6 +33,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},
