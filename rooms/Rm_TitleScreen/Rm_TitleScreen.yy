@@ -1,7 +1,7 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "Room2",
+  "name": "Rm_TitleScreen",
   "isDnd": false,
   "volume": 1.0,
   "parentRoom": null,
@@ -27,8 +27,8 @@
   "sequenceId": null,
   "roomSettings": {
     "inheritRoomSettings": false,
-    "Width": 1366,
-    "Height": 768,
+    "Width": 5000,
+    "Height": 4333,
     "persistent": false,
   },
   "viewSettings": {
