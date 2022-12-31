@@ -4,8 +4,8 @@
   "name": "GML Platformer",
   "resources": [
     {"id":{"name":"Spr_IWall","path":"sprites/Spr_IWall/Spr_IWall.yy",},"order":3,},
-    {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"order":7,},
     {"id":{"name":"Rm_Level2","path":"rooms/Rm_Level2/Rm_Level2.yy",},"order":1,},
+    {"id":{"name":"Spr_TitleScreen","path":"sprites/Spr_TitleScreen/Spr_TitleScreen.yy",},"order":7,},
     {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},"order":0,},
     {"id":{"name":"Spr_PlayerA","path":"sprites/Spr_PlayerA/Spr_PlayerA.yy",},"order":0,},
     {"id":{"name":"Obj_IWall","path":"objects/Obj_IWall/Obj_IWall.yy",},"order":1,},
@@ -17,6 +17,7 @@
     {"id":{"name":"Spr_BookBackround","path":"sprites/Spr_BookBackround/Spr_BookBackround.yy",},"order":4,},
     {"id":{"name":"Rm_Level1","path":"rooms/Rm_Level1/Rm_Level1.yy",},"order":0,},
     {"id":{"name":"Spr_LevelDoor","path":"sprites/Spr_LevelDoor/Spr_LevelDoor.yy",},"order":6,},
+    {"id":{"name":"Obj_StartButton","path":"objects/Obj_StartButton/Obj_StartButton.yy",},"order":3,},
     {"id":{"name":"Spr_PlayerR","path":"sprites/Spr_PlayerR/Spr_PlayerR.yy",},"order":1,},
   ],
   "Options": [
@@ -34,9 +35,9 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"Rm_TitleScreen","path":"rooms/Rm_TitleScreen/Rm_TitleScreen.yy",},},
     {"roomId":{"name":"Rm_Level1","path":"rooms/Rm_Level1/Rm_Level1.yy",},},
     {"roomId":{"name":"Rm_Level2","path":"rooms/Rm_Level2/Rm_Level2.yy",},},
-    {"roomId":{"name":"Rm_TitleScreen","path":"rooms/Rm_TitleScreen/Rm_TitleScreen.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":10,},
