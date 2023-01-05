@@ -8,10 +8,14 @@ A GML Starter kit for the **Platformer Tutorial (GML) - Parts 1 & 2**
 ***Notes***: 
 
 * The environment was set up using GMS version 2022.9.1.51. 
-* I take no credit for the movement scripts from the tutorial 
-* I have provided all the assets 
-* My goal is to provide a template that a student can clone to follow along with Shaun and practice using Source Control Management along the way.
+* I take credit for all assets.
+* Object code for player and walls is credited to tutorials with slight modifications, the rest was my own.
+* My goal is to create a enjoyable and creative platformer game.
+* The doors are holes that let you travel through the levels of the book.
+* Spacebar is the start button.
+* Wrong way doors are shown to be darker then regular doors.
+* Progress through the levels in any way you want, all are unlocked.
 
 ## Credits
-The assets and video tutorials were created by [Shaun Spalding](https://www.youtube.com/c/ShaunSpalding).
+Video tutorials were created by [Shaun Spalding](https://www.youtube.com/c/ShaunSpalding).
 Check out Shaun's amazing collections of videos.
